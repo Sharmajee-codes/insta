@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Template for hosting python scripts and applications on Heroku
 
 This is a small example of running your script with
@@ -95,3 +96,6 @@ with any dependencies.
 * [Official guide about worker](https://devcenter.heroku.com/articles/background-jobs-queueing)
 * [Guided "Simple twitter-bot with Python, Tweepy and Heroku"](http://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html)
 # Instaplus
+=======
+# insta
+>>>>>>> 6de6140ea359fd36ead4f18d800255fe9c1dc456
